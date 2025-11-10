@@ -1,4 +1,4 @@
-![logo](banner.png)
+[logo](banner.png)
 
 # 🎮 Tic-Tac-Toe Game using Python
 
